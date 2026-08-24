@@ -1,6 +1,6 @@
 # Serene.-to-do-list-
 Firebase-powered To-Do List with authentication and cloud persistence.
-# 📝 Firebase To-Do List
+# 📝 Serene To-Do List
 
 A modern and responsive **To-Do List web application** built with Firebase Authentication and Firestore. Users can securely manage their tasks, while Guest Mode provides device-specific todo persistence.
 
